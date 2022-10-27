@@ -15,6 +15,8 @@
   <img align="center" alt="Brener-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Brener-Android-Studio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
     <img align="center" alt="Brener-Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" />
+    <img align="center" alt="Brener-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+          
 </div>
   
 ## Hard Skills
