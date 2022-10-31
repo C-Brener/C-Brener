@@ -1,7 +1,7 @@
 ## Olá! Eu Sou Caique Brener!
 
 <div align="center">
-  <a href="https://github.comC-Brener">
+  <a href="https://github.com/C-Brener">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C-Brener&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Brener&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
@@ -40,5 +40,5 @@
   <a href="https://www.linkedin.com/in/caique-brener/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://github.com/C-Brener" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/C-Brener/brenermr/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/C-Brener/C-Brener/blob/output/github-contribution-grid-snake.svg)
 </div>
