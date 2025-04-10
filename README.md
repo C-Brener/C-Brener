@@ -49,4 +49,4 @@
 
   
 
- <img align="center" width="220" height="220" alt="Profile" src="./assets/img/profile.png">
+ <img align="center" alt="Profile" src="./assets/img/profile.png">
