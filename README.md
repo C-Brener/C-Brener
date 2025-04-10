@@ -47,5 +47,6 @@
   <a href="https://github.com/C-Brener" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 
 
-  ![octocat-1697463121428](https://github.com/C-Brener/C-Brener/assets/65732426/91cf2b69-0ee6-457a-a72a-83bab87c9020)
+  
 
+ <img align="center" width="220" height="220" alt="Profile" src="./assets/img/profile.png">
